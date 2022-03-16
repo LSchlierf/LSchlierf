@@ -3,7 +3,7 @@
 [![Lucas Schlierf's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSchlierf&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm currently pursuing my Bachelor's degree in Informatics at Technical University of Munich.  
-In my spare time, I code on a few passion projects of mine.
+In my spare time, I like to code on a few passion projects of mine.
 
 ## Current projects
 
