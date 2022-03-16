@@ -11,14 +11,13 @@ I'm currently working on a few things, these inclue:
 
 - [My Buzzword Bingo Generator](https://github.com/LSchlierf/Bingo)
 - A Flutter app for Buzzword Bingo
-- A bluetooth version of my [Longboard lighting project](https://github.com/LSchlierf/Glowboard)
-- A Flutter app for said Longboard
+- A [Flutter app](https://github.com/LSchlierf/LED-Controller) for controlling the [lighting setup of my longboard](https://github.com/LSchlierf/Glowboard-Bluetooth)
 
 ## Past projects
 
 I currently have only one project that I consider finished:
 
-- [My longboard lighting setup](https://github.com/LSchlierf/Glowboard)
+- [My longboard lighting setup](https://github.com/LSchlierf/Glowboard-Bluetooth)
 
 ## Contact
 
