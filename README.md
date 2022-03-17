@@ -17,7 +17,7 @@ I'm currently working on a few things, these inclue:
 
 I currently have only one project that I consider finished:
 
-- [My longboard lighting setup](https://github.com/LSchlierf/Glowboard-Bluetooth)
+- [My longboard lighting setup](https://github.com/LSchlierf/Glowboard)
 
 ## Contact
 
