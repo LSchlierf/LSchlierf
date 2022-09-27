@@ -14,6 +14,7 @@ I'm currently working on a few things, these inclue:
 - [My Buzzword Bingo React app](https://github.com/LSchlierf/Bingo), available [here](https://bs-bingo.vercel.app)
 - A [Flutter app](https://github.com/LSchlierf/LED-Controller) for controlling the [new lighting setup of my longboard](https://github.com/LSchlierf/Glowboard-Bluetooth)
 
+<<<<<<< HEAD
 ## Past projects
 
 My past projects include:
@@ -21,6 +22,8 @@ My past projects include:
 - [A buzzword bingo generator written in Java](https://github.com/LSchlierf/Bingo-Java)
 - [My old longboard lighting setup](https://github.com/LSchlierf/Glowboard)
 
+=======
+>>>>>>> a352c7b667c67b64c51628f0a82d5fa0fce07f91
 ## Contact
 
 I can be reached via Email: [LucasSchlierf@gmail.com](mailto:LucasSchlierf@gmail.com)
