@@ -2,24 +2,24 @@
 
 [![Lucas Schlierf's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSchlierf&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSchlierf&theme=github_dark&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSchlierf&theme=github_dark&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm currently pursuing my Bachelor's degree in Informatics at Technical University of Munich.  
-In my spare time, I like to code on a few passion projects of mine.
+I'm currently pursuing my Bachelor's degree in Computer Science at the Technical University of Munich.  
+In my spare time (spelled `semester break`), I like to code on a few passion projects of mine.
 
 ## Current projects
 
 I'm currently working on a few things, these inclue:
 
-- [My Buzzword Bingo Generator](https://github.com/LSchlierf/Bingo)
-- A Flutter app for Buzzword Bingo
-- A [Flutter app](https://github.com/LSchlierf/LED-Controller) for controlling the [lighting setup of my longboard](https://github.com/LSchlierf/Glowboard-Bluetooth)
+- [My Buzzword Bingo React app](https://github.com/LSchlierf/Bingo), available [here](https://bs-bingo.vercel.app)
+- A [Flutter app](https://github.com/LSchlierf/LED-Controller) for controlling the [new lighting setup of my longboard](https://github.com/LSchlierf/Glowboard-Bluetooth)
 
 ## Past projects
 
-I currently have only one project that I consider finished:
+My past projects include:
 
-- [My longboard lighting setup](https://github.com/LSchlierf/Glowboard)
+- [A buzzword bingo generator written in Java](https://github.com/LSchlierf/Bingo-Java)
+- [My old longboard lighting setup](https://github.com/LSchlierf/Glowboard)
 
 ## Contact
 
