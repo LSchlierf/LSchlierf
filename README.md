@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSchlierf&theme=github_dark&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm currently pursuing my Bachelor's degree in Computer Science at the Technical University of Munich.  
-In my spare time (spelled `semester break`), I like to code on a few passion projects of mine.
+In my spare time (read `semester break`), I like to code on a few passion projects of mine.
 
 ## Current projects
 
