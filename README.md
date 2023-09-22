@@ -11,8 +11,9 @@ In my spare time (read `semester break`), I like to code on a few passion projec
 
 I'm currently working on a few things, these inclue:
 
-- [My Buzzword Bingo React app](https://github.com/LSchlierf/Bingo), available [here](https://bs-bingo.vercel.app)
+- My Band's Website, written as a React app, available soon
 - A [Flutter app](https://github.com/LSchlierf/LED-Controller) for controlling the [new lighting setup of my longboard](https://github.com/LSchlierf/Glowboard-Bluetooth)
+- [My Buzzword Bingo React app](https://github.com/LSchlierf/Bingo), available [here](https://bs-bingo.vercel.app)
 
 ## Past projects
 
