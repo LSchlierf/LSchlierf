@@ -1,10 +1,10 @@
 # Hi there 👋
 <!--
 [![Lucas Schlierf's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSchlierf&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSchlierf&theme=github_dark&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 -->
-I'm currently pursuing my Bachelor's degree in Computer Science at the Technical University of Munich.  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSchlierf&theme=github_dark&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+I'm currently pursuing my Bachelor's degree in computer science with a minor in medical technology at the Technical University of Munich.  
 In my spare time (read `semester break`), I like to code on a few passion projects of mine.
 
 ## Current projects
