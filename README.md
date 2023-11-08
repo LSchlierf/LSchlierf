@@ -11,7 +11,7 @@ In my spare time (read `semester break`), I like to code on a few passion projec
 
 I'm currently working on a few things, these inclue:
 
-- [My Band's Website](https://www.sevenheaven.band), developed using React
+- [My Band's Website](https://www.github.com/lschlerf/sevenheaven), developed using React.js and Express.js, [hosted on vercel](https://www.sevenheaven.band).
 - A [Flutter app](https://github.com/LSchlierf/LED-Controller) for controlling the [new lighting setup of my longboard](https://github.com/LSchlierf/Glowboard-Bluetooth)
 - [My Buzzword Bingo React app](https://github.com/LSchlierf/Bingo), available [here](https://bs-bingo.vercel.app)
 
