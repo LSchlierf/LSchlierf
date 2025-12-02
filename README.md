@@ -2,9 +2,11 @@
 <!--
 [![Lucas Schlierf's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSchlierf&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSchlierf&theme=github_dark&layout=compact&langs_count=6&exclude_repo=CrashTestFuzz-discovered-bugs)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-I'm currently pursuing my Masters's degree in Software Engineering in a [joint program](http://studieren.se) from Universität Augsburg, TUM and LMU.
+I'm currently pursuing my Master's degree in Software Engineering in a [joint program](https://elite-se.informatik.uni-augsburg.de/) from Universität Augsburg, TUM and LMU.
 In my spare time (read `semester break`), I like to code on a few passion projects of mine.
 
 ## Current projects
